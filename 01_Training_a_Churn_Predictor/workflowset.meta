@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+    <met:element form="text" read-only="false" name="Author">rosy</met:element>
+    <met:element form="date" read-only="false" name="Creation Date">23/3/2015/12:00:01 +02:00</met:element>
+    <met:element form="multiline" read-only="false" name="Comments">Training a Churn Predictor
+
+This workflow is an example of how to train a basic machine learning model for a churn prediction task. In this case we use a Decision Tree algorithm. However, the Learner-Predictor construct is common to all supervised algorthms.&#13;
+&#13;
+
+
+URL: Churn Prediction https://www.knime.org/knime-applications/churn-prediction
+TAGS: Customer Intelligence,CI,churn,decision tree,Practicing Data Science</met:element>
+</met:KNIMEMetaInfo>
